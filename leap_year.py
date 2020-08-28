@@ -8,10 +8,5 @@ def is_leap(year):
                 leap = True
         else:
             leap = True
-    
-    return leap
-
-#year = int(input())
-#print(is_leap(year))
 n = int(input())
 
