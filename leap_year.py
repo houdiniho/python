@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def is_leap(year):
     leap = False
     
@@ -9,6 +10,6 @@ def is_leap(year):
         else:
             leap = True
 n = int(input())
-if __name__ = "__main__":
+if __name__ == "__main__":
     is_leap(n)
 
