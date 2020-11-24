@@ -9,4 +9,6 @@ def is_leap(year):
         else:
             leap = True
 n = int(input())
+if __name__ = "__main__":
+    is_leap(n)
 
